@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JackDinsey
 
-- 🌱 I’m currently learning ... CSS / HTML / JS
+- 🌱 I’m currently learning ... Python / CSS / JS
 
 - 📫 How to reach me ... jackdinsey@gmail.com
 
