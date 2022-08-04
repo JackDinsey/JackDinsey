@@ -2,9 +2,5 @@
 
 - 🌱 I’m currently learning ... Python / CSS / JS
 
-- 📫 How to reach me ... jackdinsey@gmail.com
+- 📫 How to reach me ... JackD#6439
 
-<!---
-JackDinsey/JackDinsey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
